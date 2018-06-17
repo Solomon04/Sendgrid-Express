@@ -16,7 +16,7 @@ const sgMail = require('@sendgrid/mail'); //sendgrid library to send emails
 const app = express(); //alias from the express function
 
 //sendgrid api key
-sgMail.setApiKey('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');
+sgMail.setApiKey('____YOUR___API__KEY');
 
 app.use(cors()); //utilize Cors so the browser doesn't restrict data, without it Sendgrid will not send!
 
