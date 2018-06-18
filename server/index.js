@@ -4,6 +4,7 @@
 * Install Dependencies, run the statement from below: 
 * "yarn add express cors @sendgrid/mail" 
 * To run server use the statement below: 
+* 'nodemon index.js'
 * 
 MAKE SURE YOU HAVE NODEMON Installed! 
 For Reference check here: https://www.npmjs.com/package/nodemon 
